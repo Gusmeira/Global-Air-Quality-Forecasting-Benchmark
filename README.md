@@ -16,8 +16,8 @@ The project evaluates the predictive performance of Global Neural Architectures 
 
 ## 🛠️ Installation
 ```bash
-git clone [https://github.com/seu-usuario/air-quality-neural-benchmark.git](https://github.com/seu-usuario/Global-Air-Quality-Forecasting-Benckmark.git)
-cd Global-Air-Quality-Forecasting-Benckmark
+git clone [https://github.com/Gusmeira/Global-Air-Quality-Forecasting-Benchmark.git](https://github.com/Gusmeira/Global-Air-Quality-Forecasting-Benchmark.git)
+cd Global-Air-Quality-Forecasting-Benchmark
 pip install -r requirements.txt
 ```
 
